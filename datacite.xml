@@ -3,9 +3,9 @@
   <identifier identifierType="DOI">10.00000/placeholder</identifier>
   <creators>
     <creator>
-      <creatorName nameType="Personal">Jorgensen, Sierra</creatorName>
-      <givenName>Sierra</givenName>
-      <familyName>Jorgensen</familyName>
+      <creatorName nameType="Personal">Shahid, Eman</creatorName>
+      <givenName>Eman</givenName>
+      <familyName>Shahid</familyName>
     </creator>
   </creators>
   <titles>
@@ -30,8 +30,8 @@
     <subject>Rock</subject>
   </subjects>
   <dates>
-    <date dateType="Created">2026-02-27</date>
-    <date dateType="Updated">2026-02-27</date>
+    <date dateType="Created">2026-02-25</date>
+    <date dateType="Updated">2026-02-25</date>
     <date dateType="Coverage">2023-02-15/2024-11-27</date>
   </dates>
   <language>en</language>
@@ -45,9 +45,18 @@
     <format>text/csv</format>
   </formats>
   <rightsList>
-    <rights rightsURI="https://choosealicense.com/">TBD – provide a license, e.g., CC BY 4.0 or All rights reserved</rights>
+    <rights rightsURI="https://www.apache.org/licenses/LICENSE-2.0"> 
+      Apache License 2.0
   </rightsList>
-  <descriptions>
-    <description descriptionType="Abstract">A tabular dataset listing the top 100 Spotify songs (as of 2025) with rank, title, artist, genre, release date, streams (millions), popularity score, duration (seconds), and explicit flag. Contains 100 records across 9 genres. Release dates range from 2023-02-15 to 2024-11-27. Total streams sum to 101422.47 million; mean track duration 201.5 seconds; explicit tracks: 54; non-explicit tracks: 46.</description>
+  <contributors>
+    <contributor contributorType="DataCurator">
+      <contributorName nameType="Personal">Jorgensen, Sierra</contributorName>
+      <givenName>Sierra</givenName>
+      <familyName>Jorgensen</familyName>
+    </contributor>
+  </contributors>
+ <descriptions>
+    <description descriptionType="Abstract">A tabular dataset listing the top 100 Spotify songs (as of 2025)... Contains 100 records across 9 genres. Release dates range 2023-02-15 to 2024-11-27. Total streams 101422.47 million; mean duration 201.5 sec; explicit 54; non-explicit 46.</description>
+    <description descriptionType="Other">Original dataset created by Eman Shahid and published on Kaggle.</description>
   </descriptions>
 </resource>
