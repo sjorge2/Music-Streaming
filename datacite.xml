@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 https://schema.datacite.org/meta/kernel-4.6/metadata.xsd">
+  <identifier identifierType="DOI">10.00000/placeholder</identifier>
+  <creators>
+    <creator>
+      <creatorName nameType="Personal">Jorgensen, Sierra</creatorName>
+      <givenName>Sierra</givenName>
+      <familyName>Jorgensen</familyName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Top 100 Spotify Songs (2025)</title>
+  </titles>
+  <publisher>Self-published</publisher>
+  <publicationYear>2026</publicationYear>
+  <resourceType resourceTypeGeneral="Dataset">CSV of music tracks and metrics</resourceType>
+  <subjects>
+    <subject>Spotify</subject>
+    <subject>music</subject>
+    <subject>top 100</subject>
+    <subject>2025</subject>
+    <subject>Afrobeats</subject>
+    <subject>Electronic</subject>
+    <subject>Hip-Hop</subject>
+    <subject>Indie</subject>
+    <subject>K-Pop</subject>
+    <subject>Latin</subject>
+    <subject>Pop</subject>
+    <subject>R&amp;B</subject>
+    <subject>Rock</subject>
+  </subjects>
+  <dates>
+    <date dateType="Created">2026-02-27</date>
+    <date dateType="Updated">2026-02-27</date>
+    <date dateType="Coverage">2023-02-15/2024-11-27</date>
+  </dates>
+  <language>en</language>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="FileName">top_100_spotify_songs_2025.csv</alternateIdentifier>
+  </alternateIdentifiers>
+  <sizes>
+    <size>100 rows; 20 artists</size>
+  </sizes>
+  <formats>
+    <format>text/csv</format>
+  </formats>
+  <rightsList>
+    <rights rightsURI="https://choosealicense.com/">TBD – provide a license, e.g., CC BY 4.0 or All rights reserved</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">A tabular dataset listing the top 100 Spotify songs (as of 2025) with rank, title, artist, genre, release date, streams (millions), popularity score, duration (seconds), and explicit flag. Contains 100 records across 9 genres. Release dates range from 2023-02-15 to 2024-11-27. Total streams sum to 101422.47 million; mean track duration 201.5 seconds; explicit tracks: 54; non-explicit tracks: 46.</description>
+  </descriptions>
+</resource>
