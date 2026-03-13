@@ -3,7 +3,7 @@ Repository for LIS 545 Winter 2026
 
 List of files:
 
-top_100_spotify_songs_2025.csv
+top_100_spotify_songs_2025.csv: Synthetic data in tabular format ranking song popularity on Spotify in 2025.
 
 datacite.xml: This file contains the DataCite metadata schema for the key data set listed above. Created with assistance by Microsoft CoPilot.
 
