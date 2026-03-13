@@ -26,9 +26,16 @@
     <subject>K-Pop</subject>
     <subject>Latin</subject>
     <subject>Pop</subject>
-    <subject>R&amp;B</subject>
+    <subject>R&B</subject>
     <subject>Rock</subject>
   </subjects>
+  <contributors>
+    <contributor contributorType="DataCurator">
+      <contributorName nameType="Personal">Jorgensen, Sierra</contributorName>
+      <givenName>Sierra</givenName>
+      <familyName>Jorgensen</familyName>
+    </contributor>
+  </contributors>
   <dates>
     <date dateType="Created">2026-02-25</date>
     <date dateType="Updated">2026-02-25</date>
@@ -47,14 +54,8 @@
   <rightsList>
     <rights rightsURI="https://www.apache.org/licenses/LICENSE-2.0"> 
       Apache License 2.0
+    </rights>
   </rightsList>
-  <contributors>
-    <contributor contributorType="DataCurator">
-      <contributorName nameType="Personal">Jorgensen, Sierra</contributorName>
-      <givenName>Sierra</givenName>
-      <familyName>Jorgensen</familyName>
-    </contributor>
-  </contributors>
  <descriptions>
     <description descriptionType="Abstract">A tabular dataset listing the top 100 Spotify songs (as of 2025)... Contains 100 records across 9 genres. Release dates range 2023-02-15 to 2024-11-27. Total streams 101422.47 million; mean duration 201.5 sec; explicit 54; non-explicit 46.</description>
     <description descriptionType="Other">Original dataset created by Eman Shahid and published on Kaggle.</description>
